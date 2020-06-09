@@ -1,2 +1,3 @@
 # GitHubTest
-This repository is test for github
+
+프로젝트에 대한 간략한 소개를 여기에 넣어보세요.
